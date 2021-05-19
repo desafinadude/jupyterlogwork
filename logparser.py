@@ -4,7 +4,7 @@ import os
 import re
 import pandas as pd
 
-INPUT_DIR = "access"
+INPUT_DIR = "procurement"
 
 list_logs = list()
 

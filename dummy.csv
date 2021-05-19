@@ -1,0 +1,11 @@
+ip,date,month,year,time,method,request,status,bytes,refer,useragent
+1.1.1.1,23,May,2021,06:25:33,GET,/api/purchase_records/,200,21159,-,"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+1.1.1.1,16,May,2021,06:30:33,GET,/api/purchase_records/,200,21160,-,"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+1.1.1.1,9,May,2021,06:35:33,POST,/api/purchase_records/,200,21158,-,"Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36"
+2.2.2.2,2,May,2021,06:40:33,GET,/api/purchase_records/,200,21156,-,"Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73 (KHTML, like Gecko)"
+2.2.2.2,25,Apr,2021,06:45:34,GET,/,200,1006,-,"Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73 (KHTML, like Gecko)"
+3.3.3.3,18,Apr,2021,06:45:33,GET,/api/purchase_records/,200,21155,-,"Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)"
+4.4.4.4,9,Apr,2021,06:45:33,GET,/api/purchase_records/,200,21155,-,"Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+5.5.5.5,3,Apr,2021,06:40:33,GET,/api/purchase_records/,200,21156,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
+6.6.6.6,3,Apr,2021,06:40:33,GET,/api/purchase_records/,200,21156,-,"python-requests/2.25.1"
+6.6.6.6,3,Apr,2021,06:40:33,GET,/records/purchase_records.xlsx?buyer_name=National+Prosecuting+Authority,200,21156,-,"python-requests/2.25.1"
