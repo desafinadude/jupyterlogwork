@@ -9,3 +9,5 @@ ip,date,month,year,time,method,request,status,bytes,refer,useragent
 5.5.5.5,3,Apr,2021,06:40:33,GET,/api/purchase_records/,200,21156,-,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"
 6.6.6.6,3,Apr,2021,06:40:33,GET,/api/purchase_records/,200,21156,-,"python-requests/2.25.1"
 6.6.6.6,3,Apr,2021,06:40:33,GET,/records/purchase_records.xlsx?buyer_name=National+Prosecuting+Authority,200,21156,-,"python-requests/2.25.1"
+2.2.2.2,5,Apr,2021,06:45:34,GET,/,200,1006,-,"Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73 (KHTML, like Gecko)"
+7.7.7.7,3,Mar,2021,06:45:34,GET,/records/purchase_records.xlsx?buyer_name=National+Prosecuting+Authority,200,1006,-,"Mozilla/5.0 (PlayStation 4 3.11) AppleWebKit/537.73 (KHTML, like Gecko)"
